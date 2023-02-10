@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Pepe",
         "category": "anillos",
-        "image": "https://ifps.io/ipfs/HASH/#/QmPho9RXHZDgRw3TScivFkMNYFV4nxBexWzrpZidMazeve?filename=hipo.png",
+        "image": "https://ipfs.io/ipfs/QmPho9RXHZDgRw3TScivFkMNYFV4nxBexWzrpZidMazeve?filename=hipo.png",
         "price": "1",
         "stock": 10
       },
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Pepe Oro",
         "category": "anillos",
-        "image": "https://ifps.io/ipfs/HASH/#/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.5",
         "stock": 1
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Pantera Onca",
         "category": "anillos",
-        "image": "https://ifps.io/ipfs/HASH/#/QmRNV9eQFeftVe9RbeMSoreAK4Vgz5iQD2G4SMQnGeiHwD?filename=pantera.png",
+        "image": "https://ipfs.io/ipfs/QmRNV9eQFeftVe9RbeMSoreAK4Vgz5iQD2G4SMQnGeiHwD?filename=pantera.png",
         "price": "0.25",
         "stock": 24
       },
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Pepe Oro",
         "category": "anillos",
-        "image": "https://ifps.io/ipfs/HASH/#/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
+        "image": "https://ifps.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.25",
         "stock": 3
       },
@@ -36,7 +36,7 @@
         "id": 5,
         "name": "Collar Matilda",
         "category": "collares",
-        "image": "https://ifps.io/ipfs/HASH/#/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.10",
         "stock": 1
       },
@@ -44,7 +44,7 @@
         "id": 6,
         "name": "Collar Pepe",
         "category": "collares",
-        "image": "https://ifps.io/ipfs/HASH/#/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "1.25",
         "stock": 0
       },
@@ -52,7 +52,7 @@
         "id": 7,
         "name": "Dije Pulpo",
         "category": "collares",
-        "image": "https://ifps.io/ipfs/HASH/#/QmTurXgFqLU6S9yLb5QWahMBf9BWqUSvTgQQvMUYkAkGxs?filename=rananecklace.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.05",
         "stock": 15
       },
@@ -60,7 +60,7 @@
         "id": 8,
         "name": "Rana",
         "category": "anillos",
-        "image": "https://ifps.io/ipfs/HASH/#/QmTurXgFqLU6S9yLb5QWahMBf9BWqUSvTgQQvMUYkAkGxs?filename=rananecklace.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.20",
         "stock": 0
       },
@@ -68,7 +68,7 @@
         "id": 9,
         "name": "Zorro",
         "category": "anillos",
-        "image": "hhttps://ifps.io/ipfs/HASH/#/QmTurXgFqLU6S9yLb5QWahMBf9BWqUSvTgQQvMUYkAkGxs?filename=rananecklace.png",
+        "image": "https://ipfs.io/ipfs/QmQ3hYuat8pc3pee4UnPReeiXZbUZfJqU1tL1i4y5n3WVh?filename=hipogold.png",
         "price": "0.15",
         "rating": 3,
         "stock": 12
