@@ -1,5 +1,7 @@
 # PepeMatilda Market V0
 
+# Visit at https://old-pine-4521.on.fleek.co
+
 # use Goerli Network
 
 This project is a mock marketplace for a jewelry store
@@ -16,8 +18,4 @@ npm start
 
 
 # PepeMatildaMarket
-# PepeMatildaMarket
-# pepematildamarket
-# pepematildamarket
-# pepematildamarket
-# deploye1
+
