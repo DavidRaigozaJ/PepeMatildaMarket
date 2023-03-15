@@ -1,15 +1,18 @@
-# Sample Hardhat Project
+# PepeMatilda Market V0
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# use Goerli Network
 
-Try running some of the following tasks:
+This project is a mock marketplace for a jewelry store
 
-```shell
+# Try running some of the following tasks:
+
 npx hardhat help
 npx hardhat test
-REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
-```
-# marketlol
-# supermarket
+npx hardhat run scripts/deploy.js --network goerli
+npm start
+
+
+
+# PepeMatildaMarket
