@@ -6,6 +6,13 @@
 
 This project is a mock marketplace for a jewelry store
 
+
+```
+git clone https://github.com/DavidRaigozaJ/pepematildamarket
+cd pepematildamarket
+npm start
+```
+
 # Try running some of the following tasks:
 
 npx hardhat help
