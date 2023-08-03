@@ -2,7 +2,7 @@
 
 # Visit at https://old-pine-4521.on.fleek.co
 
-# use Goerli Network
+# use Goerli Network updte to Sepolia 
 
 This project is a mock marketplace for a jewelry store
 
